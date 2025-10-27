@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Dominik from Poland<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning Flutter<br>- ⚡ In my free time I like programming</p>
+<p align="left">I'm Dominik from Poland<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I like programming</p>
 
 ###
 
